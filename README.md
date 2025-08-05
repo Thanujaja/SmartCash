@@ -8,3 +8,4 @@ admin username - administrator password - 1111
 Rate me.
 Give feedbacks.
 Enjoy.
+(for better use, install composer to your PHP path. getcomposer.org)
